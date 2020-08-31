@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.0",
     "plop": "^2.7.4",
-    "yeoman-generator": "^4.11.0"
+    "yeoman-generator": "^4.11.0",
+    "yosay": "^2.0.2"
   }
 }
